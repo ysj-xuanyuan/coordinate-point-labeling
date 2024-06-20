@@ -1,0 +1,11 @@
+VDBox.AddThreatMarks(500, 347, 33, 545, 400, 80);//knife 
+VDBox.AddThreatMarks(500, 391, 81, 600, 239, 120);//felighter 
+VDBox.AddThreatMarks(500, 200, 151, 584, 284, 200);//portablebattery
+VDBox.AddThreatMarks(500, 150, 210, 554, 210, 260);
+VDBox.AddThreatMarks(500, 180, 270, 554, 290, 310);
+
+VDBox.AddThreatMarks(400, 347, 33, 445, 400, 80);//knife 
+VDBox.AddThreatMarks(400, 391, 81, 500, 239, 120);//felighter 
+VDBox.AddThreatMarks(400, 200, 151, 484, 284, 200);//portablebattery
+VDBox.AddThreatMarks(400, 150, 210, 454, 210, 260);
+VDBox.AddThreatMarks(400, 180, 270, 454, 290, 310);

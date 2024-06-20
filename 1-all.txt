@@ -1,0 +1,29 @@
+VDBox.AddThreatMarks(500, 347, 33, 545, 400, 80);//knife 
+VDBox.AddThreatMarks(500, 391, 81, 600, 239, 120);//felighter 
+VDBox.AddThreatMarks(500, 200, 151, 584, 284, 200);//portablebattery
+VDBox.AddThreatMarks(500, 150, 210, 554, 210, 260);
+VDBox.AddThreatMarks(500, 180, 270, 554, 290, 310);
+
+VDBox.AddThreatMarks(400, 347, 33, 445, 400, 80);//knife 
+VDBox.AddThreatMarks(400, 391, 81, 500, 239, 120);//felighter 
+VDBox.AddThreatMarks(400, 200, 151, 484, 284, 200);//portablebattery
+VDBox.AddThreatMarks(400, 150, 210, 454, 210, 260);
+VDBox.AddThreatMarks(400, 180, 270, 454, 290, 310);
+
+VDBox.AddThreatMarks(300, 347, 33, 345, 400, 80);//knife 
+VDBox.AddThreatMarks(300, 391, 81, 400, 239, 120);//felighter 
+VDBox.AddThreatMarks(300, 200, 151, 384, 284, 200);//portablebattery
+VDBox.AddThreatMarks(300, 150, 210, 354, 210, 260);
+VDBox.AddThreatMarks(300, 180, 270, 354, 290, 310);
+
+VDBox.AddThreatMarks(200, 347, 33, 245, 400, 80);//knife 
+VDBox.AddThreatMarks(200, 391, 81, 300, 239, 120);//felighter 
+VDBox.AddThreatMarks(200, 200, 151, 284, 284, 200);//portablebattery
+VDBox.AddThreatMarks(200, 150, 210, 254, 210, 260);
+VDBox.AddThreatMarks(200, 180, 270, 254, 290, 310);
+
+VDBox.AddThreatMarks(100, 347, 33, 145, 400, 80);//knife 
+VDBox.AddThreatMarks(100, 391, 81, 200, 239, 120);//felighter 
+VDBox.AddThreatMarks(100, 200, 151, 184, 284, 200);//portablebattery
+VDBox.AddThreatMarks(100, 150, 210, 154, 210, 260);
+VDBox.AddThreatMarks(100, 180, 270, 154, 290, 310);
